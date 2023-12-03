@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EdGvJkIIAHgS6sOxY5Fkoirk+V4F1Of5TnxMJpFAwQI=",
+  "Source": "HousePriceAPI",
+  "BasePath": "_content/HousePriceAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
